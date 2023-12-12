@@ -19,7 +19,8 @@ Se você é um colega de classe, professor ou alguém interessado em colaborar o
 
 ## Contato
 
-Sinta-se à vontade para entrar em contato comigo para discutir qualquer aspecto deste repositório ou para colaborações futuras. Você pode me encontrar em robson.oliveira@estudante.iftm.edu.br
+Sinta-se à vontade para entrar em contato comigo para discutir qualquer aspecto deste repositório ou para colaborações futuras. Você pode me encontrar em robsongabrielsangaletti1@gmail.com ou robson.oliveira@estudante.iftm.edu.br
+Número de whatsapp: (34)9 9336-6994
 
 ## Objetivo
 Pretendo formar no curso de ADS e ser inserido rapidamente no mercado de trabalho, buscando como prioridade dentro da área em que estudo hoje.
